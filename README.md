@@ -18,8 +18,10 @@
 ## 💡 Técnicas y Librerias Empleadas
 
 - Feature Selection con Boruta.
-- Algoritmo de ensable (Light GBM)
-- Encoders de Scikit Learn
+- Análisis de missing values con Missingno.
+- Detección de outliers con la Distancia de Mahalanobis.
+- Algoritmos de ensable (Light GBM y Random Forest)
+- Encoders y Scalers de Scikit Learn
 - Optimizador de hiper parámetros (Grid Search CV)
 
 --------------------------------------------------------------------
